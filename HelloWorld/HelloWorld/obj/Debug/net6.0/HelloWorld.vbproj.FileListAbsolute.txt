@@ -1,0 +1,15 @@
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.vbproj.AssemblyReference.cache
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.vb
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Users\lnascimento.sjp\source\repos\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

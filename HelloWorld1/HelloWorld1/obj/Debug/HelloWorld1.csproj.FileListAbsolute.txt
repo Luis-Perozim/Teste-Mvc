@@ -1,0 +1,8 @@
+C:\Users\lnascimento.sjp\source\repos\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.exe.config
+C:\Users\lnascimento.sjp\source\repos\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.exe
+C:\Users\lnascimento.sjp\source\repos\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.pdb
+C:\Users\lnascimento.sjp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.csproj.AssemblyReference.cache
+C:\Users\lnascimento.sjp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lnascimento.sjp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.csproj.CoreCompileInputs.cache
+C:\Users\lnascimento.sjp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.exe
+C:\Users\lnascimento.sjp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.pdb
