@@ -7,10 +7,11 @@ builder.Services.AddDbContext<ContatoContexto>(options =>
     options.UseSqlite(connection)
   );
 
-builder.Services.AddMvc();  
-
+builder.Services.AddMvc(options => options.EnableEndpointRouting = false);
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+
 
 var app = builder.Build();
 
@@ -21,6 +22,13 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+app.UseMvc(routes =>
+{
+    routes.MapRoute(
+        name: "default",
+        template: "{controller=Contatos}/{action=Index}/{id?}"
+    );
+});
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

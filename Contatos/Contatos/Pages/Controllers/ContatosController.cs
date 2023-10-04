@@ -9,11 +9,11 @@ using Contatos.Models;
 
 namespace Contatos.Pages.Controllers
 {
-    public class ContatoesController : Controller
+    public class ContatosController : Controller
     {
         private readonly ContatoContexto _context;
 
-        public ContatoesController(ContatoContexto context)
+        public ContatosController(ContatoContexto context)
         {
             _context = context;
         }
